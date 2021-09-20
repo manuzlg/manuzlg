@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuzlg
-- 👀 I’m interested in outdoor sports and new technologies.
+- 👀 I’m interested in outdoor sports, photography and new technologies.
 - 🌱 I’m currently learning computer science 1st year after a BSc in architecture and several internships in offices.
 - 💞️ I’m looking to collaborate on I don't know yet.
 - 📫 How to reach me : telegram @manuzlg
