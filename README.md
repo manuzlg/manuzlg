@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @manuzlg
-- 👀 I’m interested in outdoor sports, photography and new technologies.
-- 🌱 I’m currently learning computer science 1st year after a BSc in architecture and several internships in offices.
-- 💞️ I’m looking to collaborate on I don't know yet.
-- 📫 How to reach me : telegram @manuzlg
+Always wanted to study Physics, Mathematics or Computer-Science, I got lost several years in the Architecture field thanks to a family insult message back in 2015. I decided to make the move now and thought it was a clever choice to get into CS instead of basic sciences in term of career path as an adult. I like rigor, organization and efficiency.
 
-<!---
-manuzlg/manuzlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Athlete focused since years on trail-running and freeride skiing. Part-time photographer.
+
+Computer-Science EPFL.
+BA1 : 4,5/6 1st try after 7 years without doing maths.
+BA2 : **/6.
