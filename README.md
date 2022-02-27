@@ -3,5 +3,7 @@ Always wanted to study Physics, Mathematics or Computer-Science, I got lost seve
 Athlete focused since years on trail-running and freeride skiing. Part-time photographer.
 
 Computer-Science EPFL.
+
 BA1 : 4,5/6 1st try after 7 years without doing maths.
+
 BA2 : **/6.
