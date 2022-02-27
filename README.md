@@ -2,7 +2,9 @@ Always wanted to study Physics, Mathematics or Computer-Science, I got lost seve
 
 Athlete focused since years on trail-running and freeride skiing. Part-time photographer.
 
-Computer-Science EPFL. Interested in cybersecurity or quantum engineering.
+ Interested in cybersecurity or quantum engineering.
+
+Computer-Science EPFL.
 
 BA1 : 4,5/6 1st try after 7 years without doing maths or physics.
 
