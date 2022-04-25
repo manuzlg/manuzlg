@@ -1,8 +1,8 @@
-Always wanted to study Physics, Mathematics or Computer-Science, I got lost several years in the Architecture field thanks to a family insult message back in 2015. I decided to make the move now and thought it was a clever choice to get into CS instead of basic sciences in term of career path as an adult. I like rigor, organization and efficiency.
+Kind of disappointed by the Architecture world and deep down always wanted to study Physics, Mathematics or Computer-Science, I decided to make the move now and thought it was a clever choice to get into CS instead of basic sciences in term of career path as an adult. I like rigor, organization and efficiency.
 
 Athlete focused since years on trail-running and freeride skiing. Part-time photographer.
 
- Interested in cybersecurity or quantum engineering.
+Interested in Cybersecurity and/or Quantum Engineering.
 
 Computer-Science EPFL.
 
